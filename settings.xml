@@ -1,6 +1,5 @@
 <settings>
-
-  <servers>
+<servers>
   <server>
     <id>nextwork-petah-devop</id>
     <username>aws</username>
