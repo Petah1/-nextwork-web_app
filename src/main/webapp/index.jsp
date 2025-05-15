@@ -28,7 +28,7 @@
         
         header {
             background-color: var(--primary);
-            color: black;
+            color: white;
             padding: 1rem;
             position: relative;
             overflow: hidden;
