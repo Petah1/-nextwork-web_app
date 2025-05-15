@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Olutola Bello Fish Farm - Premium Aquaculture</title>
+    <title>Olutola Adeleke Bello Fish Farm - Premium Aquaculture</title>
     <style>
         :root {
             --primary: #1e5f74;
@@ -28,7 +28,7 @@
         
         header {
             background-color: var(--primary);
-            color: white;
+            color: black;
             padding: 1rem;
             position: relative;
             overflow: hidden;
